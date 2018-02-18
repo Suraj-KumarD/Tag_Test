@@ -3,3 +3,5 @@ Added new commit c1
 Added previous commit c1
 
 Added previous commit c2
+
+Added preious commit c3
